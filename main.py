@@ -26,7 +26,6 @@ else:
         print("Это число НЕ палиндром")
 
 # task 3
-R = 4
 x = int(input("Enter x-coordinate: "))
 y = int(input("Enter y-coordinate: "))
 if x > 3 or x < -3 and y > 3 or y < -3:
